@@ -1,2 +1,3 @@
 # nccGitLectureBase
-NCCのGit講習会用練習リポジトリ
+NCCのGitリポジトリ用用練習
+イエーイ。
